@@ -1,4 +1,4 @@
-¡Hola, soy Thomas Solti! 👋
+<h1 align="center">¡Hola, soy Thomas Solti!<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 
 Sobre Mí
 
